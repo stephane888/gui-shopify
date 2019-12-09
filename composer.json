@@ -19,6 +19,6 @@
 	},
 	"require" : {
 		"php" : "^7.2",
-		"stephane888/wbu-shopify" : "^1.0"
+		"stephane888/wbu-shopify" : "dev-master"
 	}
 }
