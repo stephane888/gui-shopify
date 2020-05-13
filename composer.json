@@ -3,7 +3,7 @@
 	"description" : "Shopify Site GUI",
 	"type" : "library",
 	"license" : "MIT",
-	"version" : "1.2",
+	"version" : "dev-master",
 	"authors" : [{
 			"name" : "stephane888",
 			"email" : "kksasteph888@gmail.com",
@@ -18,7 +18,7 @@
 		}
 	},
 	"require" : {
-		"php" : "^7.2",
+		"php" : "^7.0",
 		"stephane888/wbu-shopify" : "dev-master"
 	}
 }
