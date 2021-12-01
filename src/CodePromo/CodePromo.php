@@ -4,7 +4,7 @@ use DB;
 /**
  * 
  * @author stephane
- *
+ * ..
  */
 class CodePromo{
     private $_WbuShopify;
